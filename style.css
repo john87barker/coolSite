@@ -1,0 +1,44 @@
+.background-blue{
+  background-color: rgb(3, 3, 65);
+}
+.background-light{
+  background-color: rgb(163, 176, 219);
+}
+.text-white{
+  color: white;
+}
+.d-flex{
+  display: flex;
+}
+.margin-left{
+  margin-left: 20em;
+}
+.text-center{
+  text-align: center;
+}
+.padding-right{
+  padding-right: 5em;
+}
+.margins{
+  margin-left: 19em;
+  margin-right: 22em;
+}
+.margin-top{
+  margin-top: 3em;
+}
+.padding{
+  padding: .5em;
+}
+.padding-small{
+  padding: 2px;
+}
+.padding-bottom{
+  padding-bottom: 4.2em; ;
+}
+.letter-space{
+  letter-spacing: .25em;
+}
+body{
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
